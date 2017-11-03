@@ -5,7 +5,7 @@
 #include <limits>
 #include <stdexcept>
 
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 
 #include <spii/spii.h>
 #include <spii/solver.h>
